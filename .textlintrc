@@ -1,0 +1,13 @@
+{
+  "filters": {},
+  "rules": {
+    "one-white-space-between-zenkaku-and-hankaku-eiji": true,
+    "spellcheck-tech-word": true,
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+          "max": 160
+      },
+      "ja-no-mixed-period": false
+    }
+  }
+}
